@@ -1,0 +1,22 @@
+body{
+background: black;
+}
+.hi{
+    border: 1px solid yellow;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4UeEjjERyEVTOIaXIKHlj7snPZAKulH5-z1Kau1lsw&s);
+     background-position: center; 
+     height: 150px;
+     width: 500px;
+     margin: 0 auto;
+     margin-top: 50px;
+   border-radius: 12px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+}
+
